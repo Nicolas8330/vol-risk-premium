@@ -1,0 +1,7 @@
+
+HANDOVER.md
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+data/cache/gspc_yahoo.csv
